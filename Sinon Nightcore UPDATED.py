@@ -43,7 +43,7 @@ async def on_ready():
     print('Name : {}'.format(client.user.name))
     print('ID : {}'.format(client.user.id))
     print(discord.__version__)
-    game = discord.Game(name='becoming useful <.<')
+    game = discord.Game(name='new?')
     await client.change_presence(status=discord.Status.online, game=game)
 
     """guild = client.get_guild('270264941120978965')
