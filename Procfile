@@ -1,1 +1,1 @@
-worker: pyhon3 "Sinon Nightcore.py" 
+worker python3 "Sinon Nightcore UPDATED.py" 
